@@ -1,0 +1,6 @@
+.upperIcon {
+    border: grey solid 0.3pt;
+    border-radius : 20px;
+    overflow : hidden;
+    box-shadow : 0 0 20px 0 rgba(0 , 0,0, 0.06) 
+}
